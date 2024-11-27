@@ -1,2 +1,2 @@
 # DataMart-data-analysis
-Data cleaning and data exploration of datamart sales
+Data analysis of sustainable packaging impact on sales at Data Mart.
